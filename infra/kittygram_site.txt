@@ -1,0 +1,5 @@
+IP: 51.250.100.54;
+name_taski: https://vladsmtaski.ddns.net;
+name_kittygram: https://smvlkittygram.ddns.net;
+login: superr;
+password: qwe33qwe;
